@@ -1,2 +1,2 @@
-# CIENTISTA-DA-TERRA
-Earth Scientist is a 2D platform game developed using the Phaser 3 library. The project is part of a study on sustainability and environmental protection, where the player controls a scientist on a critical mission: to collect improperly discarded waste in a native forest to restore the ecosystem's balance
+# cientista
+CIENTISTA DA TERRA é uma aventura de plataforma conscientizadora onde você assume o papel de um cientista dedicado a salvar o planeta da sufocante poluição humana. O jogo leva o jogador por uma jornada urgente que começa no coração da floresta e desce até as profundezas do oceano, enfrentando o desafio de coletar resíduos descartados incorretamente para restaurar o equilíbrio ambiental em tempo real.
